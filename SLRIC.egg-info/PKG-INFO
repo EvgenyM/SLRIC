@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: SLRIC
+Version: 1.3
+Summary: SRIC and LRIC indices calculation
+Home-page: https://github.com/SergSHV/SLRIC
+Author: Fuad Aleskerov, Natalia Meshcheryahkova, Sergey Shvydun(*)
+Author-email: shvydun@hse.ru
+License: MIT
+Description: Influence in networks based on short-range interaction centrality (SRIC) and long-range interction centrality (LRIC)
+Platform: UNKNOWN

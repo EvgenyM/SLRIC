@@ -1,0 +1,1 @@
+Influence in networks based on short-range interaction centrality (SRIC) and long-range interction centrality (LRIC)

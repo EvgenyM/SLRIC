@@ -1,0 +1,16 @@
+README.rst
+setup.py
+SLRIC/__init__.py
+SLRIC/slric.py
+SLRIC.egg-info/PKG-INFO
+SLRIC.egg-info/SOURCES.txt
+SLRIC.egg-info/dependency_links.txt
+SLRIC.egg-info/requires.txt
+SLRIC.egg-info/top_level.txt
+SLRIC/classes/GraphQW.py
+SLRIC/classes/__init__.py
+SLRIC/methods/__init__.py
+SLRIC/methods/direct_influence.py
+SLRIC/methods/indirect_influence.py
+SLRIC/methods/lric.py
+SLRIC/methods/sric.py
